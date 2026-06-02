@@ -1,0 +1,383 @@
+﻿;NB: No cells are editable on this sheet;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;CLIMATE ZONES;;ℹ;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;TROPICAL RAINFOREST;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Af;;;;;;;;;;;;;;;;;;;;;;;
+;;A = tropical, f = wet year round;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;High, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Hot, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;None;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Rainforests
+Evergreen hardwood tress: mahogany, teak, sandalwood, rosewood
+Bananas, coconuts, palm oil
+Highest biodiversity on planet
+Poor soil quality";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Amazon River Basin;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Within the equatorward half of the tropics
+Windward side of tropical islands
+At low elevations only";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;;;;;;;;;;;;;;;;;;;;;;;;
+;TROPICAL MONSOON;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Am;;;;;;;;;;;;;;;;;;;;;;;
+;;A= tropical, m = monsoon;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;High with some lower months;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Hot, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Wet and less wet;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Monsoon forest to grassland
+Rice, sugar cane, cocoa
+Lower biodiveristy compared to tropical rainforests (Af)";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;West coast of India;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In tropics
+As a transition away from tropical rainforests (Af)
+In areas subject to monsoon circulation
+Limited area";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Overall wetter or have a shorter dry season compared to savannas (Aw/s) ;;;;;;;;;;;;;;;;;;;;;;;
+;TROPICAL SAVANNAHS;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Aw;;;;;;;;;;;;;;;;;;;;;;;
+;;A = tropical, w = savannah, dry winter;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"High in rainy season
+Low or absent in dry";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Hot, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Wet & Dry;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Scrub, forest, grassland
+Rice, sugar cane, cocoa";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Serengeti;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In tropics
+Transition away from tropical monsoon (Am)
+Widespread area";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Classic wet and dry type
+Overall drier or has a longer dry season compared to tropical monsoon 
+(Am) regions";;;;;;;;;;;;;;;;;;;;;;;
+;SUBTROPICAL HIGHLAND CLIMATE;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cwb;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, w = dry winter, b = long, warm summer;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"High in Summer
+Low or absent in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Warm, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Wet & dry;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Forest & grassland
+Rice, corn, tea, coffee";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Southern Himalayan foothils;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In tropics
+Usually between 1500-4000m in elevation";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"High altitude, cooler version of savannahs (Aw) or tropical monsoons (Am)
+""Eternal spring"""" climate
+More common then Cfa";;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cfb;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, f = wet, year round, b = long, warm summer;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Moderate to high, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Warm, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Wet & Dry;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Mixed Woodland
+Lower reaches, thick 'cloud' forests
+Rice, corn, tea, coffee";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Andes Foothills;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Within tropics
+Windward side of tropical islands
+At elevation, 1500-4000m
+Bordering tropical rainforests (Af)";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"High altitude, cooler version of tropical rainforests (Af)
+Similar to oceanic cliamte of Northwest Europe
+""Eternal spring"" type climate";;;;;;;;;;;;;;;;;;;;;;;
+;HOT DESERTS;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Bwh;;;;;;;;;;;;;;;;;;;;;;;
+;;B = Arid, W = desert, h = Hot;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Very low, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Long, very hot summer, shorter mild winter;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Very hot then mild;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Limited or absent vegetation
+Sand & bare rock";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Sahara desert;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward third of Hadley cell, may extend into ferrel cell a bit
+Rainshadows of tropical and sub tropical mountains";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Classical scorched desert
+Highest temperatures on planet
+Hot deserts along cold current coasts are milder 'fog deserts'";;;;;;;;;;;;;;;;;;;;;;;
+;HOT STEPPE;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;BSh;;;;;;;;;;;;;;;;;;;;;;;
+;;B = Arid, S = steppe, h = Hot;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Low, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Very hot summer, mild winter;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Very hot then mild;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Limited vegetation
+Stunted hardy shrubs, catii";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;North Eastern Australian Outback;;;;;;;;;;;;;;;;;;;;;;;
+;Location;Bordering hot deserts (BWh);;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Marginal habitability;;;;;;;;;;;;;;;;;;;;;;;
+;HUMID SUBTROPICAL (Warm Temperate Eastern Margin);;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cfa;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, f - wet, year round, a = long, hot summers;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Moderate, year round
+Occasional winter snow";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Hot to cool;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Classic four seasons;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Mixed forest, grassland, swamps
+Good for agriculture
+Rice, nuts, wheat, cotton, tobacco, ranching
+Can support high populations";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;South-east US;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward third of Hadley cell to equatorward third of ferrel cell
+Along warm current coasts only";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Sultry summers, fresh winters;;;;;;;;;;;;;;;;;;;;;;;
+;SUBTROPICAL MONSOON;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cwa;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, w = dry winters, a = long, hot summers;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"High in summer
+Low or absent in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Very hot to cool;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;"Hot, wet season & cool,dry season
+In parts, rare '3-season' variation:
+Mild, dry winter - short, very hot, dry summer - hot, wet season";;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Scrub-forest, grassland
+Good for argiculture
+Rice, nuts, wheat, cotton, tabacoo, ranching
+Can support high populations";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;North East India;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward third of Hadley cell to equatorward third of ferrel cell
+In regions affected by monsoon circulation
+Transition away from Humid Subtropical (Cfa)";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Less widespread than Humid Subtropical (Cfa);;;;;;;;;;;;;;;;;;;;;;;
+;HOT SUMMER MEDITERRANEAN (Warm Temperate Western Margin);;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Csa;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, s = dry summers, a = long, hot summer;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Low or absent in summer
+Moderate in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Hot to mild;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Hot, dry summer & mild, wet winter;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Shrubland - scrub & hardy grasses
+Patches of bare earth or rock
+Grapes, olives, citrus fruits, figs, wheat";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Mediterranean;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Equatorward half of ferrel cell
+Poleward of hot deserts (Bwh) and hot steppes (Bsh)
+Along cold current coasts only";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;;;;;;;;;;;;;;;;;;;;;;;;
+;WARM SUMMER MEDITERRANEAN;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Csb;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, s = dry summers, b = long, warm summer;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Low or absent in summer
+Heavy in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Warm to cool;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Warm, dry summer & cool, wet winter;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Coniferous forests - redwoods, sequoias
+Eucalyptus forests
+Grapes, olives, figs, citrus fruits, figs, wheat";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Pacific Northwest US;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Equatorward half of ferrel cell
+Poleward transition away from Hot Summer Mediterranean (Csa)
+Along cold current coasts only";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Unique climate with stormy winters, superb summers
+Less common than Hot Summer Mediterranean (Csa)
+Cooler version of Hot Summer Mediterranean (Csa)";;;;;;;;;;;;;;;;;;;;;;;
+;OCEANIC (Maritime west coast);;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cfb;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, f = wet, year round, b = long, warm summers;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Moderate to high, year round
+Occasional winter snow";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Warm to cool;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Classic four seasons;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Thick mixed coniferous and decidious woodland
+In places, temperate rainforest - thick tree coverage, moss, ferns
+Archetypal ""country side""
+Great for agriculture
+Apples, strawberries, wheat, grapes";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Great Britain & Ireland;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward half of ferrel cell
+Along warm current coasts";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Unreliable summers, stormy winters
+Overcast";;;;;;;;;;;;;;;;;;;;;;;
+;SUB-POLAR OCEANIC;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Cfc;;;;;;;;;;;;;;;;;;;;;;;
+;;C = Temperate, f = wet, year round, c = short,cold summers;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Moderate to high, year round
+Occasional winter snow";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Cool, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;"""Perpetual Autumn""";;;;;;;;;;;;;;;;;;;;;;;
+;Environment;Coniferous Forests;;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Scottish Highlands;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward half of ferrel cell
+Along warm current coasts only
+Transition poleward away from Oceanic (Cfb) or at high elevation ";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Very stormy, overcast
+Cooler version of Oceanic (Cfb)";;;;;;;;;;;;;;;;;;;;;;;
+;COLD DESERT;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Bwk;;;;;;;;;;;;;;;;;;;;;;;
+;;B = arid, W = desert, k = cold;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Very low, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Warm/hot summer
+Cool/cold winter";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Hotter then colder;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;Very limited or absent;;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Gobi Desert;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In ferrel cell; continental interiors, rainshadows and at elevation
+At elevation in Hot Desert zone";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Desolate, inhospitable;;;;;;;;;;;;;;;;;;;;;;;
+;COLD STEPPES;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;BSk;;;;;;;;;;;;;;;;;;;;;;;
+;;B = arid, S = steppe, k = cold;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Low, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Warm/hot summer
+Cool/cold winter";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Hotter then colder;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Scrub, hardy grasses
+Poor argicultural land
+Grazing livestock can be viable";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Andes fringes;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In ferrel cell; continental interiors, rainshadows and at elevation
+At elevation in hot desert (BWh) zone
+Transition zone away from cold deserts (BWk)";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Classic horse/steppe lands;;;;;;;;;;;;;;;;;;;;;;;
+;HUMID CONTINENTAL;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dfa,Dfb;;;;;;;;;;;;;;;;;;;;;;;
+;;"D = continental, f = wet, year round, 
+a = long hot summer, b = long warm summer";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Fairly low, year round
+Snowy winters";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dfa: Hot to cold
+Dfb: Warm to Cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Classic four seasons;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Prairie & steppe
+Deciduous & coniferous forests
+Grasslands fringing semi-arid climates
+Unifrom pine forests fringing subarctic climates
+Good for agriculture
+Wheat, corn, soy beans, barley";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Midwest US;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward half of ferrel cell
+Continental interiors";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Wide seasonal temperature ranges
+Most common continental climate type";;;;;;;;;;;;;;;;;;;;;;;
+;CONTINENTAL MONSOON;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dwa/Dwb;;;;;;;;;;;;;;;;;;;;;;;
+;;"D= continental, w = dry winter
+a =long, hot summers, b = long, warm summer";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Moderate to high in summer
+Light snow in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dwa: hot to cold
+Dwb: warm to cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Four seasons with wet summer;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Prairie & steppe grass
+Deciduous & Coniferous forests
+Grasslands fringing semi-arid climates
+Uniform pine forests fringing subarctic climates
+Wheat, corn, soy beans, barley";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Korea;;;;;;;;;;;;;;;;;;;;;;;
+;Location;Ferrel cell regions subject to monsson circulation;;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Monsoon verison of humid continental (Dfa/Dfb);;;;;;;;;;;;;;;;;;;;;;;
+;CONTINENTAL MEDITERRANEAN;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dsa/Dsb;;;;;;;;;;;;;;;;;;;;;;;
+;;"D = continental, s = dry summers, 
+a = long, hot summers, b = long, warm summers";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Moderate in winter
+Low to absent in summer";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dsa: hot to cold
+Dsb: warm to cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Hot & dry then snowy & cold;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;Steppe grass & shrub;;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Anatolia;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In ferrel cell, transition away from mediterranean into adjoining 
+high altitude regions";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Rare high altitude form of the mediterranean climate;;;;;;;;;;;;;;;;;;;;;;;
+;SUB-ARCTIC;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dfc/Dfd;;;;;;;;;;;;;;;;;;;;;;;
+;;"D = Continental, f = wet, year round, c = short, cold summer, 
+d = short, cold summer & very cold, long winters";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Low, year round
+Snowy winters";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dfc: warm to cold
+Dfd: warm to very cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;"Short summer
+Long dark winters";;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Boreal forest (taiga)
+Larch, fir, pine, spruce
+Equatorward, mixed woodland
+Fringing arid areas, grassland
+Swamps & bogs
+Permafrost
+Little to no framing";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Siberia;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward half of ferrel cell to equatorward half of polar cell
+Continental interiors
+Isolated Alpine regions";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Very wide seasonal temp. range
+Lowest biodiveristy on planet
+Dfc is most common of sub arctic climates";;;;;;;;;;;;;;;;;;;;;;;
+;SUBARCTIC MONSOON;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dwc/Dwd;;;;;;;;;;;;;;;;;;;;;;;
+;;"D = continental, w = dry winters, c = short, cold summers, 
+d = short, cold summers and very long, cold winters";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Fairly low in summer
+Light snow in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dwc: Warm to cold
+Dwd: Warm to very cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;"Short summer
+Long dark winter";;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Boreal forest (taiga)
+Larch, fir, pine, spruce
+Equatorward, mixed woodland
+Fringing arid areas, grassland
+Swamps & bogs
+Permafrost
+Little to no framing";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Eastern Siberia;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Poleward half of ferrel cell - equatorward half of polar polar
+Continental interiors subject to monsoon circulation
+Isolaed Alpine regions";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Very wide temp. range
+Furthest extent of monsoon circulation
+Same as Dfc/Dfd but with dry winters";;;;;;;;;;;;;;;;;;;;;;;
+;DRY SUMMER SUB-ARCTIC;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;Dsc/Dsd;;;;;;;;;;;;;;;;;;;;;;;
+;;"D = continental, s = dry summer, c = short, cold summer,
+d = short, cold summers & very cold, long winter";;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;"Very low in summer
+Snow in winter";;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;"Dsc: warm to cold
+Dsd: warm to very cold";;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;"Short summer
+Long dark winter";;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Boreal forest (taiga)
+Larch, fir, pine, spruce
+Equatorward, mixed woodland
+Fringing arid areas, grassland
+Swamps & bogs
+Permafrost
+Little to no framing";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Isolated areas of Canadian Rockies;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"Equatorward half of polar cell
+Continental interiors
+Isolated Alpine regions";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Very wide temp. range
+Very rare climate type
+Same as Dfc/Dfd but dry season is in summer";;;;;;;;;;;;;;;;;;;;;;;
+;TUNDRA;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;ET;;;;;;;;;;;;;;;;;;;;;;;
+;;E = polar, T = tundra;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Low, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Cool to (very) cold;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Short summer & long dark winter;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"Treeless
+Lichen, moss, hardy grasses
+Permafrost
+Lakes, bogs, swamps in flat areas
+No farming";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;North eastern Canada;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In polar cell
+High altitude regions worldwide (alpine meadows)
+Fringing polar ice cap climates";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;"Bleak & treeless wastes
+Marginal habitability";;;;;;;;;;;;;;;;;;;;;;;
+;ICE CAP;;;;;;;;;;;;;;;;;;;;;;;;
+;Classification;EF;;;;;;;;;;;;;;;;;;;;;;;
+;;E = polar, F = ice cap;;;;;;;;;;;;;;;;;;;;;;;
+;Rainfall;Low to absent, year round;;;;;;;;;;;;;;;;;;;;;;;
+;Temperature;Cold to extremely cold;;;;;;;;;;;;;;;;;;;;;;;
+;Seasons;Perpetual winter;;;;;;;;;;;;;;;;;;;;;;;
+;Environment;"No vegetation
+Ice sheets kms thick";;;;;;;;;;;;;;;;;;;;;;;
+;Examples;Antarctica;;;;;;;;;;;;;;;;;;;;;;;
+;Location;"In Polar cell, poleward of tundra
+In continental interiors
+High altitude regions worldwide";;;;;;;;;;;;;;;;;;;;;;;
+;Comments;Most hostile climate zone;;;;;;;;;;;;;;;;;;;;;;;
